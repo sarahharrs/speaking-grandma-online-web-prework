@@ -8,4 +8,4 @@ else
   puts "HUH?! SPEAK UP,SONNY!"
 end
 end
-speak_to_grandma(phrase)
+speak_to_grandma("Hello!")
